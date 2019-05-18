@@ -8,7 +8,7 @@ source py2/bin/activate
 ```
 # 复制本项目
 ```
-git clone https://github.com/lin14543/ticket_info_manage
+git clone https://github.com/AleiHsu/ticket_info_manage
 ```
 # 安装所需要的包
 进入到本项目的根目录下
